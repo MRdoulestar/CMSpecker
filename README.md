@@ -1,2 +1,2 @@
-# yunMirror
-云镜——网站(CMS)指纹采集与识别相关
+# CMSpecker
+云勺-啄木鸟(CMSpecker)-内容管理系统(CMS)多维度特征识别
